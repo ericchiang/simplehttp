@@ -1,0 +1,11 @@
+To download ("-d" means don't build)
+
+```
+go get -d github.com/ericchiang/simplehttp
+``` 
+
+To run
+
+```
+go run main.go --name foobar
+```
